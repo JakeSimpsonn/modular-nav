@@ -25,7 +25,6 @@ body {
 
 li {
   display: inline-block;
-  color: #0074d9;
 }
 
 a:hover {
@@ -49,4 +48,5 @@ a {
 .current {
   color: #fff;
   background-color: #0074d9;
+  text-align: center;
 }
